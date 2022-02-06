@@ -1,0 +1,13 @@
+{
+    "name": "my-backend",
+    "version": "1.0.0",
+    "author": "Moritz Ott",
+    "description": "a simple demo backend",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.2"
+    }
+}
