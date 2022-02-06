@@ -1,2 +1,6 @@
 # svelte-express-test
-just a simple testproject to try some things with Svelte as frontend and Express.js as backend
+This is just a simple test repo for me, to try and check things out.
+
+## Tech stack:
+Frontend: Svelte
+Backend: Express.js
